@@ -1,3 +1,5 @@
+# Introduction:
+This repo was created to help Amir in his c++ project.
 
 # Instructions:
 
